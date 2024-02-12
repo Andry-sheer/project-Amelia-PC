@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Oxygen';
+    src: url('Oxygen-Bold.woff2') format('woff2'),
+        url('Oxygen-Bold.woff') format('woff');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-Regular.woff2') format('woff2'),
+        url('Lora-Regular.woff') format('woff');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oxygen';
+    src: url('Oxygen-Regular.woff2') format('woff2'),
+        url('Oxygen-Regular.woff') format('woff');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Bold.woff2') format('woff2'),
+        url('Roboto-Bold.woff') format('woff');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Regular.woff2') format('woff2'),
+        url('Roboto-Regular.woff') format('woff');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tektur';
+    src: url('Tektur-Bold.woff') format('woff'),
+        url('Tektur-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tektur';
+    src: url('Tektur-Regular.woff') format('woff'),
+        url('Tektur-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Salsa';
+    src: url('Salsa-Regular.woff') format('woff'),
+        url('Salsa-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Architects Daughter';
+    src: url('ArchitectsDaughter-Regular.woff') format('woff'),
+        url('ArchitectsDaughter-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FrederickatheGreat';
+    src: url('FrederickatheGreat-Regular.woff') format('woff'),
+        url('FrederickatheGreat-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Thin.woff2') format('woff2'),
+        url('Poppins-Thin.woff') format('woff');
+    font-weight: 100;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lemon';
+    src: url('Lemon-Regular.woff2') format('woff2'),
+        url('Lemon-Regular.woff') format('woff');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Thin.woff2') format('woff2'),
+        url('Roboto-Thin.woff') format('woff');
+    font-weight: 100;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.woff2') format('woff2'),
+        url('Montserrat-Regular.woff') format('woff');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("Montserrat-Medium.woff2") format("woff2"),
+        url("Montserrat-Medium.woff") format("woff");
+    font-weight: 500;
+    font-display: swap;
+}
+
